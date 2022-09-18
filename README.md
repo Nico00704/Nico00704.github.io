@@ -5,8 +5,8 @@
 
 </center>
 <body bg color="77B5FE">
-<a href="Page Nico La France dans l'histoire des sports.html">
-<h2>-La France dans l'histoire des sports depuis 1930</h2>
+<a href="Presentation site Nico.html">
+<p>-La France</p>
 
 </body>
 
